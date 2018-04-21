@@ -21,4 +21,4 @@ npm-debug.log
 /dist
 
 # db
-/db
+/db/db-store
